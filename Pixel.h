@@ -1,4 +1,4 @@
-//Written By Dongyu Li  &  Ming Chen
+//Written By Dongyu Li 
 #pragma once
 //to represent a pixel with red, green, and blue values
 class Pixel
