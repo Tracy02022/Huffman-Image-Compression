@@ -1,4 +1,4 @@
-//Written By Dongyu Li  &  Ming Chen
+//Written By Dongyu Li 
 #pragma once
 //the nodes are used to compute the Huffman code for each channel value
 template <class T>
