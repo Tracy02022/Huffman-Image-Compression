@@ -1,4 +1,4 @@
-// project4.cpp : Written By Dongyu Li  &  Ming Chen.
+// project4.cpp : Written By Dongyu Li 
 //
 
 #include "stdafx.h"
