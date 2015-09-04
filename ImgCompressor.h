@@ -1,4 +1,4 @@
-//Written By Dongyu Li  &  Ming Chen
+//Written By Dongyu Li 
 #pragma once 
 #include"BinaryHeap.h"
 #include"HuffmanNodePtr.h"
